@@ -1,0 +1,17 @@
+.idea/copyright
+out
+out/production
+out/production/FindMedian
+.idea/scopes
+.idea
+.idea/copyright/profiles_settings.xml
+.idea/scopes/scope_settings.xml
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+out/production/FindMedian/FindMedian$TestClass.class
+out/production/FindMedian/FindMedian.class
+FindMedian.iml
